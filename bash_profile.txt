@@ -1,0 +1,9 @@
+# Set CLICOLOR if you want Ansi Colors in iTerm2 
+export CLICOLOR=1
+# Set colors to match iTerm2 Terminal Colors
+export TERM=xterm-256color
+export PATH="/usr/local/opt/sqlite/bin:$PATH"
+export VMANAGE_HOST="198.18.1.10"
+export VMANAGE_PORT="443"
+export VMANAGE_USERNAME="admin"
+export VMANAGE_PWD="admin"
